@@ -80,7 +80,7 @@ enqueue → pending → running → completed
 ### Step 1: Clone Repository
 
 ```cmd
-git clone https://github.com/YOUR_USERNAME/queuectl.git
+git clone https://github.com/HariniKartheeswaran/queuectl.git
 cd queuectl
 ```
 
