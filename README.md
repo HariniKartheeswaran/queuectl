@@ -488,14 +488,5 @@ queuectl/
 - [ ] Prometheus metrics
 - [ ] Docker containerization
 
-## 📄 License
 
-MIT License
-
-## 👨‍💻 Author
-
-Created for the Background Job Queue System assignment.
-
----
-
-**Made with ❤️ and Python**
+**⭐ Star this repository if you found it helpful!**
