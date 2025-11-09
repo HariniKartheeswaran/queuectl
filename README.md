@@ -5,6 +5,10 @@
 
 A production-grade CLI-based background job queue system with worker management, exponential backoff retry logic, Dead Letter Queue (DLQ), and real-time web monitoring dashboard.
 
+📺 Demo Video
+🎥 Watch the CLI Demo
+https://drive.google.com/file/d/1aIvU7ACkvNZINndkhbEyVyZaxAk8K6WE/view?usp=sharing
+
 ## ✨ Features
 
 ### Core Features ✅ (All Required)
@@ -87,7 +91,7 @@ cd queuectl
 ### Step 2: Run Setup Script
 
 ```cmd
-setup.bat
+.\setup.bat
 ```
 
 This will:
