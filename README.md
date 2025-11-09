@@ -1,15 +1,9 @@
 # 🚀 QueueCTL - Advanced Background Job Queue System
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 A production-grade CLI-based background job queue system with worker management, exponential backoff retry logic, Dead Letter Queue (DLQ), and real-time web monitoring dashboard.
-
-## 📺 Demo Video
-
-🎥 **[Watch the CLI Demo](YOUR_DRIVE_LINK_HERE)**
-
-> Replace `YOUR_DRIVE_LINK_HERE` with your Google Drive video link after recording
 
 ## ✨ Features
 
